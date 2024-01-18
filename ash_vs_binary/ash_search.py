@@ -76,5 +76,5 @@ if __name__ == '__main__':
     list_seq = list(seq)
     print(list_seq)
 
-    print(ash_search(list_seq, 125000))
-    # print(binary_search(list_seq, 125000))
+    # print(ash_search(list_seq, 125000))
+    print(binary_search(list_seq, 125000))
